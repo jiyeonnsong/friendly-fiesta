@@ -1,5 +1,5 @@
 # friendly-fiesta
-## this is H2
+## this is test git
 
 1. list: kakao-clone
 3. list2: insta-clone
